@@ -29,9 +29,7 @@ Simple Linear Regression BTC/USDT
 
 =[4]= To download this project, you could easily click on the link below:
 -----------------------------------------------
-[Click Here to download the prject](https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt)
+[Click Here to download the project](https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt)
 
-<a href="https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt">Click Here to download the prject</a>
 
-<a href="https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt" target="_blank" rel="noopener noreferrer">Click Here to download the prject</a>
 
