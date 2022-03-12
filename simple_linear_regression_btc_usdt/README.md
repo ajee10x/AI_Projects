@@ -1,18 +1,19 @@
-=[1]= Project name:
+[1] Project name:
 -----------------------------------------------
-Simple Linear Regression BTC/USDT
+### Simple Linear Regression BTC/USDT
 
 
-
-=[2]= The project contains these files:
+[2] project files:
 -----------------------------------------------
-1. main.ipynb
-2. Binance_BTCUSDT_d.csv
-3. README.md
+### 
+    .
+    ├── main.ipynb                   # The main file to run the proejct
+    ├── Binance_BTCUSDT_d.csv        # The dataset
+    └── README.md                    # The ReadMe file
 
 
 
-=[3]= In this project, we will do as the following:
+[3] Project Contents:
 -----------------------------------------------
 1. Downloading the Data.
 2. Understanding the Data.
@@ -26,10 +27,13 @@ Simple Linear Regression BTC/USDT
 10. Evaluation the Data.
 
 
-
-=[4]= To download this project, you could easily click on the link below:
+[4] To download this project, you could easily click on the link below:
 -----------------------------------------------
 [Click Here to download the project](https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt)
+
+### or copy the link following link
+    https://download-directory.github.io/?url=https://github.com/ajee10x/AI_Projects/tree/main/simple_linear_regression_btc_usdt
+
 
 
 
