@@ -14,16 +14,16 @@ Simple Linear Regression BTC/USDT
 
 =[3]= In this project, we will do as the following:
 -----------------------------------------------
-1. Downloading the Data
-2. Understanding the Data
-3. Reading the data
-4. Data Exploration
-5. Creating train and test dataset
-6. Simple Regression Model
-7. Train data distribution
-8. Modeling the Data
-9. Plot outputs
-10. Evaluation the Data
+1. Downloading the Data.
+2. Understanding the Data.
+3. Reading the data.
+4. Data Exploration.
+5. Creating train and test dataset.
+6. Simple Regression Model.
+7. Train data distribution.
+8. Modeling the Data.
+9. Plot outputs.
+10. Evaluation the Data.
 
 
 
