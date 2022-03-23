@@ -4,7 +4,8 @@ This Repository includes more than one AI project represented as a notebook with
 ### Projects Directory
 
     .
-    ├── simple_linear_regression_btc_usdt                          
+    ├── simple_linear_regression_btc_usdt 
+    ├── real_estate_prediction
     ├── LICENSE
     └── README.md
 
